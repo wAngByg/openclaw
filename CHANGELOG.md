@@ -5,6 +5,7 @@ Docs: https://docs.openclaw.ai
 ## Unreleased
 
 ### Changes
+- Sessions: recover store from backup and tmp artifacts. Thanks @wAngByg.
 
 ### Fixes
 
